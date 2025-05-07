@@ -11,7 +11,7 @@
 ### 🧑‍💻 About Me
 
 - 💡 I love building full-stack web applications and solving real-world problems with clean and scalable code.
-- 🌱 Currently learning: **DevOps, TypeScript, and Cloud technologies**
+- 🌱 Currently learning: **Machine Learning, TypeScript**
 - 💬 Ask me about **MERN stack, REST APIs, and software architecture**
 - 📫 How to reach me: **your.email@example.com**
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
