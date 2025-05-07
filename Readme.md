@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Siddharth Rohan</h1>
 <h3 align="center">🚀 Full Stack Developer | Passionate Problem Solver | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=isidrohan&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://img.shields.io/github/followers/isidrohan?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
@@ -48,18 +48,18 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isidrohan&show_icons=true&theme=radical" alt="yourusername stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" alt="yourusername streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=isidrohan&theme=radical" alt="yourusername streak" />
 </p>
 
 ---
 
 ### 📌 Projects Showcase
 
-- 🔗 [Project 1 Name](https://github.com/yourusername/project1): A short description about what it does.
-- 🔗 [Project 2 Name](https://github.com/yourusername/project2): Another short description.
-- 🔗 [More Projects...](https://github.com/yourusername?tab=repositories)
+- 🔗 [Project 1 Name](https://github.com/isidrohan/project1): A short description about what it does.
+- 🔗 [Project 2 Name](https://github.com/isidrohan/project2): Another short description.
+- 🔗 [More Projects...](https://github.com/isidrohan?tab=repositories)
 
 ---
 
@@ -73,4 +73,4 @@
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Siddharth Rohan](https://github.com/isidrohan)
