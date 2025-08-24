@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Rohan</h1>
-<h3 align="center">🚀 Full Stack Developer | Passionate Problem Solver | Open Source Contributor</h3>
+<h3 align="center">🚀 Full Stack Developer | Passionate Problem Solver </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isidrohan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
