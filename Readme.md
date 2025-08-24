@@ -14,7 +14,7 @@
 - 🌱 Currently learning: **Machine Learning, TypeScript**
 - 💬 Ask me about **MERN stack, REST APIs, and software architecture**
 - 📫 How to reach me: **your.email@example.com**
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 🌐 Portfolio: [your-portfolio-link.com]([https://your-portfolio-link.com](https://portfolio-mauve-seven-91.vercel.app/))
 
 ---
 
@@ -55,20 +55,12 @@
 
 ---
 
-### 📌 Projects Showcase
-
-- 🔗 [Project 1 Name](https://github.com/isidrohan/project1): A short description about what it does.
-- 🔗 [Project 2 Name](https://github.com/isidrohan/project2): Another short description.
-- 🔗 [More Projects...](https://github.com/isidrohan?tab=repositories)
-
----
-
 ### 🔗 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/yourtwitter" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/siddharth-rohan-279385239/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:sidrohanme2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white"></a>
+ 
 </p>
 
 ---
