@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Full Stack Developer | Passionate Problem Solver | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isidrohan&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-  <img src="https://img.shields.io/github/followers/isidrohan?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=isidrohan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/isidrohan?label=Followers&style=social" alt="Followers" />
 </p>
 
 ---
@@ -13,8 +13,8 @@
 - 💡 I love building full-stack web applications and solving real-world problems with clean and scalable code.
 - 🌱 Currently learning: **Machine Learning, TypeScript**
 - 💬 Ask me about **MERN stack, REST APIs, and software architecture**
-- 📫 How to reach me: **your.email@example.com**
-- 🌐 Portfolio: [your-portfolio-link.com]([https://your-portfolio-link.com](https://portfolio-mauve-seven-91.vercel.app/))
+- 📫 How to reach me: **sidrohanme2@gmail.com**
+- 🌐 Portfolio: [portfolio-mauve-seven-91.vercel.app](https://portfolio-mauve-seven-91.vercel.app/)
 
 ---
 
@@ -48,9 +48,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isidrohan&show_icons=true&theme=radical" alt="yourusername stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isidrohan&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=isidrohan&theme=radical" alt="yourusername streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=isidrohan&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -58,9 +58,12 @@
 ### 🔗 Let's Connect
 
 <p>
-  <a href="[https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/siddharth-rohan-279385239/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:sidrohanme2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white"></a>
- 
+  <a href="https://www.linkedin.com/in/siddharth-rohan-279385239/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="mailto:sidrohanme2@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
